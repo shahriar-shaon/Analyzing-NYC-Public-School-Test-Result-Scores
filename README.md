@@ -1,10 +1,13 @@
 # Analyzing-NYC-Public-School-Test-Result-Scores
 
 # Goal
-
-
-
-
+Find out the following:
+1. Total number of school
+2. Total number of unique school building
+3. Lowest number in all criteria
+4. Top 10 Highest schools
+5. Borough wise total school and their average score 
+6. Top 10 highest schools in all criteria
 
 
 ![image](https://user-images.githubusercontent.com/119105391/208693208-1ff7945d-d844-489b-b98d-5b889632199f.png)
